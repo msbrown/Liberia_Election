@@ -1,0 +1,38 @@
+markers = [
+   {
+     "name": "Ricardo Klein",
+     "url": "https://en.wikipedia.org/wiki/Canada",
+     "lat": 7.06273,
+     "lng": -10.12939
+   },
+   {
+     "name": "Ricky Klein",
+     "url": "https://en.wikipedia.org/wiki/Anguilla",
+     "lat": 6.47361,
+     "lng": -10.69519
+   },
+   {
+     "name": "Richie Rich",
+     "url": "https://en.wikipedia.org/wiki/Barbados",
+     "lat": 6.81735,
+     "lng": -9.54163
+   },
+   {
+     "name": "Richard Smalls",
+     "url": "https://en.wikipedia.org/wiki/United_States",
+     "lat": 6.22247,
+     "lng": -10.06897
+   },
+   {
+     "name": "Rico Smalle",
+     "url": "https://en.wikipedia.org/wiki/Ireland",
+     "lat": 5.98761,
+     "lng": -9.03076
+   },
+   {
+     "name": "Riczard Kleinzo",
+     "url": "https://en.wikipedia.org/wiki/Scotland",
+     "lat": 6.30438,
+     "lng": -10.42603
+   }
+];
